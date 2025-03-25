@@ -1,5 +1,10 @@
 package ru.geekbrains.homework4;
 
+/*
+Создайте приложение, которое скачивает файлы из интернета в несколько потоков.
+У пользователя должна быть возможность указать, сколько потоков использовать для загрузки.
+ */
+
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.InputStream;
